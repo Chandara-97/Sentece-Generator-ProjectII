@@ -9,12 +9,12 @@ question,intent
 តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -28,11 +28,11 @@ question,intent
 តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -45,12 +45,12 @@ question,intent
 តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ប្លែក ៗ អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -63,12 +63,12 @@ question,intent
 តើ មាន ព័ត៌មាន រំភើប អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន រំភើប អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន រំភើប អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន រំភើប អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន រំភើប អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន រំភើប អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន រំភើប អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន រំភើប អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន រំភើប អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -82,11 +82,11 @@ question,intent
 តើ មាន ព័ត៌មាន រំភើប អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន រំភើប អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន រំភើប អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន រំភើប អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន រំភើប អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន រំភើប អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន រំភើប អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -100,11 +100,11 @@ question,intent
 តើ មាន ព័ត៌មាន រំភើប អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អត់ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន រំភើប អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន រំភើប អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន រំភើប អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន រំភើប អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន រំភើប អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន រំភើប អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន រំភើប អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -117,12 +117,12 @@ question,intent
 តើ មាន ព័ត៌មាន ថ្មី អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -136,11 +136,11 @@ question,intent
 តើ មាន ព័ត៌មាន ថ្មី អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -153,12 +153,12 @@ question,intent
 តើ មាន ព័ត៌មាន ថ្មី អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -171,12 +171,12 @@ question,intent
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -190,11 +190,11 @@ question,intent
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -207,12 +207,12 @@ question,intent
 តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន ថ្មី ៗ អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -225,12 +225,12 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -244,11 +244,11 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -261,12 +261,12 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស ថ្មី អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -279,12 +279,12 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -298,11 +298,11 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -316,11 +316,11 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អត់ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ សិស្ស អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -333,12 +333,12 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -351,12 +351,12 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -369,12 +369,12 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក ថ្មី អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -387,12 +387,12 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -406,11 +406,11 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -423,12 +423,12 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ បុគ្គលិក អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -441,12 +441,12 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -460,11 +460,11 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -477,12 +477,12 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -495,12 +495,12 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -514,11 +514,11 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -531,12 +531,12 @@ question,intent
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ព័ត៌មាន សម្រាប់ អ្នក មក មើល អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -549,12 +549,12 @@ question,intent
 តើ មាន រឿង ប្លែក ៗ អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ប្លែក ៗ អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ប្លែក ៗ អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ប្លែក ៗ អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ប្លែក ៗ អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ប្លែក ៗ អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ប្លែក ៗ អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ប្លែក ៗ អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ប្លែក ៗ អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -568,11 +568,11 @@ question,intent
 តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -585,12 +585,12 @@ question,intent
 តើ មាន រឿង ប្លែក ៗ អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ប្លែក ៗ អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ប្លែក ៗ អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ប្លែក ៗ អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ប្លែក ៗ អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ប្លែក ៗ អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ប្លែក ៗ អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ប្លែក ៗ អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ប្លែក ៗ អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ប្លែក ៗ អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -604,11 +604,11 @@ question,intent
 តើ មាន រឿង រំភើប អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អ្វី នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង រំភើប អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង រំភើប អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង រំភើប អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង រំភើប អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង រំភើប អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង រំភើប អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -622,11 +622,11 @@ question,intent
 តើ មាន រឿង រំភើប អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង រំភើប អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង រំភើប អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង រំភើប អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង រំភើប អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង រំភើប អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង រំភើប អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -643,8 +643,8 @@ question,intent
 តើ មាន រឿង រំភើប អត់ នៅ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង រំភើប អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង រំភើប អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង រំភើប អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង រំភើប អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង រំភើប អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -657,12 +657,12 @@ question,intent
 តើ មាន រឿង ថ្មី អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អ្វី នៅ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -676,11 +676,11 @@ question,intent
 តើ មាន រឿង ថ្មី អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -693,12 +693,12 @@ question,intent
 តើ មាន រឿង ថ្មី អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អត់ នៅ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -711,12 +711,12 @@ question,intent
 តើ មាន រឿង ថ្មី ៗ អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី ៗ អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី ៗ អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី ៗ អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី ៗ អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី ៗ អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី ៗ អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី ៗ អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី ៗ អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -730,11 +730,11 @@ question,intent
 តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -747,12 +747,12 @@ question,intent
 តើ មាន រឿង ថ្មី ៗ អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី ៗ អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី ៗ អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី ៗ អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី ៗ អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី ៗ អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង ថ្មី ៗ អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី ៗ អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង ថ្មី ៗ អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង ថ្មី ៗ អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -765,12 +765,12 @@ question,intent
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី នៅ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -784,11 +784,11 @@ question,intent
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -801,12 +801,12 @@ question,intent
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស ថ្មី អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -819,12 +819,12 @@ question,intent
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី នៅ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -838,11 +838,11 @@ question,intent
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -856,11 +856,11 @@ question,intent
 តើ មាន រឿង សម្រាប់ សិស្ស អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អត់ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ សិស្ស អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ សិស្ស អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ សិស្ស អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -873,12 +873,12 @@ question,intent
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -892,11 +892,11 @@ question,intent
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -909,12 +909,12 @@ question,intent
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក ថ្មី អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -927,12 +927,12 @@ question,intent
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -946,11 +946,11 @@ question,intent
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -967,8 +967,8 @@ question,intent
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អត់ នៅ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ បុគ្គលិក អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ បុគ្គលិក អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ បុគ្គលិក អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -981,12 +981,12 @@ question,intent
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ សុី អេដីធី ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1000,11 +1000,11 @@ question,intent
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1021,8 +1021,8 @@ question,intent
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1035,12 +1035,12 @@ question,intent
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1054,11 +1054,11 @@ question,intent
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1075,8 +1075,8 @@ question,intent
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អត់ នៅ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក មក មើល អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន រឿង សម្រាប់ អ្នក មក មើល អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក មក មើល អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន រឿង សម្រាប់ អ្នក មក មើល អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន រឿង សម្រាប់ អ្នក មក មើល អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1089,12 +1089,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1108,11 +1108,11 @@ question,intent
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1125,12 +1125,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ប្លែក ៗ អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1143,12 +1143,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ រំភើប អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ រំភើប អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ រំភើប អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ រំភើប អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ រំភើប អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ រំភើប អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ រំភើប អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ រំភើប អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1162,11 +1162,11 @@ question,intent
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1183,8 +1183,8 @@ question,intent
 តើ មាន ហេតុ ការណ៍ រំភើប អត់ នៅ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ រំភើប អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ រំភើប អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ រំភើប អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ រំភើប អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ រំភើប អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1197,12 +1197,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1216,11 +1216,11 @@ question,intent
 តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1233,12 +1233,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ ថ្មី អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1251,12 +1251,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1270,11 +1270,11 @@ question,intent
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1287,12 +1287,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ ថ្មី ៗ អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1305,12 +1305,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1324,11 +1324,11 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1341,12 +1341,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស ថ្មី អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1359,12 +1359,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1378,11 +1378,11 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1396,11 +1396,11 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ សិស្ស អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1413,12 +1413,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1432,11 +1432,11 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1449,12 +1449,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក ថ្មី អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1467,12 +1467,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1486,11 +1486,11 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1503,12 +1503,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ បុគ្គលិក អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1521,12 +1521,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ សុី អេដីធី ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1540,11 +1540,11 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1557,12 +1557,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក ទស្សនៈ កិច្ច អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1575,12 +1575,12 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី នៅ នឹង ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី នៅ CADT/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី នៅ ឯ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី នៅ ឯ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1594,11 +1594,11 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អ្វី ខ្លះ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ នៅ ទី នេះ ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ ក្នុង នេះ ?,AskAboutTrendingNews
@@ -1612,9 +1612,9 @@ question,intent
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ នៅ ឯ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ នៅ CADT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ នៅ ឯ សុីអេដីធី/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ នៅ សុីអេ ដីធី/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ នៅ សុីអេ/B-ORG ដីធី/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ នៅ ឯ NIPTICT/B-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ នៅ ណិពទិច/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ Cambodia Academy of Digital Technology/B-ORG ?,AskAboutTrendingNews
-តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ បណ្ឌិត្យ សភា បច្ចេកវិទ្យា ឌីជីថល កម្ពុជា/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ Cambodia/B-ORG Academy/I-ORG of/I-ORG Digital/I-ORG Technology/B-ORG ?,AskAboutTrendingNews
+តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ បណ្ឌិត្យ/B-ORG សភា/I-ORG បច្ចេកវិទ្យា/I-ORG ឌីជីថល/I-ORG កម្ពុជា/I-ORG ?,AskAboutTrendingNews
 តើ មាន ហេតុ ការណ៍ សម្រាប់ អ្នក មក មើល អត់ វិទ្យា ស្ថាន បច្ចេកវិទ្យា ឌីជីថល ?,AskAboutTrendingNews

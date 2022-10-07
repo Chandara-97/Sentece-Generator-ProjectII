@@ -1,7 +1,7 @@
 question,intent
-ចូរ រៀប រាប់ ប្រវត្តិ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 អ្នក គ្រប់ គ្រង ខាង ថ្នាក់ មូលដ្ឋាន នរណា ជា ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
 អ្នក គ្រប់ គ្រង នៅ ថ្នាក់ មូលដ្ឋាន នរណា ជា ?,AskAboutTopManagementPersonal
 អ្នក គ្រប់ គ្រង ក្នុង ថ្នាក់ មូលដ្ឋាន នរណា ជា ?,AskAboutTopManagementPersonal
 អ្នក គ្រប់ គ្រង ខាង ថ្នាក់ មូលដ្ឋាន អ្នក ណា ជា ?,AskAboutTopManagementPersonal
@@ -577,44 +577,44 @@ question,intent
 អ្នក រ៉ាប់ រង ខាង ណេតវើក កីង អ្នក ណា ជា ?,AskAboutTopManagementPersonal
 អ្នក រ៉ាប់ រង នៅ ណេតវើក កីង អ្នក ណា ជា ?,AskAboutTopManagementPersonal
 អ្នក រ៉ាប់ រង ក្នុង ណេតវើក កីង អ្នក ណា ជា ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 ចូរ រៀប រាប់ ប្រវត្តិ របស់ លោក ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
 ចូរ រៀប រាប់ ប្រវត្តិ របស់ លោក ហ៊ាន សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 ចូរ ប្រាប់ ពី ប្រវត្តិ របស់ លោក ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
@@ -639,46 +639,46 @@ question,intent
 អាច និយាយ ពី ប្រវត្តិ របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 អាច ដឹង ពី ប្រវត្តិ របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
 អាច ដឹង ពី ប្រវត្តិ របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ លោក ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
 ចូរ រៀប រាប់ ប្រវត្តិ សិក្សា របស់ លោក ហ៊ាន សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 ចូរ ប្រាប់ ពី ប្រវត្តិ សិក្សា របស់ លោក ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
@@ -703,46 +703,46 @@ question,intent
 អាច និយាយ ពី ប្រវត្តិ សិក្សា របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
 អាច ដឹង ពី ប្រវត្តិ សិក្សា របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ លោក ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
 ចូរ រៀប រាប់ ប្រវត្តិ ការ សិក្សា របស់ លោក ហ៊ាន សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 ចូរ ប្រាប់ ពី ប្រវត្តិ ការ សិក្សា របស់ លោក ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
@@ -767,46 +767,46 @@ question,intent
 អាច និយាយ ពី ប្រវត្តិ ការ សិក្សា របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
 អាច ដឹង ពី ប្រវត្តិ ការ សិក្សា របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ លោក ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
 ចូរ រៀប រាប់ ប្រវត្តិ ជីវិត របស់ លោក ហ៊ាន សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 ចូរ ប្រាប់ ពី ប្រវត្តិ ជីវិត របស់ លោក ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
@@ -831,46 +831,46 @@ question,intent
 អាច និយាយ ពី ប្រវត្តិ ជីវិត របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
 អាច ដឹង ពី ប្រវត្តិ ជីវិត របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ លោក ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
 ចូរ រៀប រាប់ ជីវ ប្រវត្តិ របស់ លោក ហ៊ាន សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 ចូរ ប្រាប់ ពី ជីវ ប្រវត្តិ របស់ លោក ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
@@ -895,46 +895,46 @@ question,intent
 អាច និយាយ ពី ជីវ ប្រវត្តិ របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
 អាច ដឹង ពី ជីវ ប្រវត្តិ របស់ ឯក ឧត្តម ហ៊ាន សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ លោក បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ បណ្ឌិត សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ បណ្ឌិត សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ លោក សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ លោក សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ ឯក ឧត្តម សេងសុភាព/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ លោក សំបឿន/B-PER ?,AskAboutTopManagementPersonal
-អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ លោក សំបឿន/B-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER បណ្ឌិត/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ បណ្ឌិត/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ ឯក/B-PER ឧត្តម/I-PER សេងសុភាព/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+អាច និយាយ ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER សំបឿន/I-PER ?,AskAboutTopManagementPersonal
+អាច ដឹង ពី ភាព ជោគ ជ័យ របស់ លោក/B-PER សំបឿន/I-PER ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ លោក ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
 ចូរ រៀប រាប់ ភាព ជោគ ជ័យ របស់ លោក ហ៊ាន សំបឿន ដែរ ឫ ទេ ?,AskAboutTopManagementPersonal
 ចូរ ប្រាប់ ពី ភាព ជោគ ជ័យ របស់ លោក ហ៊ាន សំបឿន ?,AskAboutTopManagementPersonal
